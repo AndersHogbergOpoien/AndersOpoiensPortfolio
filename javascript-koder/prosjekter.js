@@ -18,7 +18,7 @@ $(document).ready(function () {
 });
 
 function getProjects() {
-    return fetch("/javascript-koder/projects.json")
+    return fetch("/AndersOpoien.github.io/javascript-koder/projects.json")
         .then(response => response.json())
         .then(data => {
             return data
