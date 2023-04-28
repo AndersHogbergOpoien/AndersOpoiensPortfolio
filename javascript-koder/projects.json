@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Portfolio Nettside",
+      "desc": "Min personlig portfolio nettside som inneholder relevant informasjon om meg selv. ",
+      "image": "portfolionettside",
+      "category": "nettside",
+      "links": { 
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Kalles Bokhandel",
+      "desc": "En nettside til en fiksjonel bokhandel som jeg og to andre kodet sammen. ",
+      "image": "kallesbokhandel",
+      "category": "nettside",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Hønefoss VGS Nettside",
+      "desc": "En nettside om Hønefoss videregående skole, som var den første nettsiden jeg kodet. .",
+      "image": "vgsnettside",
+      "category": "nettside",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Smartphones",
+      "desc": "En presentasjon om smartphones, hvordan det har utvikklet seg og effekten det har på samfunnet.",
+      "image": "smartphones",
+      "category": "powerpoint",
+      "links": {
+        "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+        "code": "https://github.com/jigar-sable/weatherly-android"
+      }
+    },
+    {
+      "name": "The Industrial Revolution",
+      "desc": "En presentasjon om den Industrielle Revolusjonen i engelsk. ",
+      "image": "revolusjon",
+      "category": "powerpoint",
+      "links": {
+        "view": "https://instagramernstack.herokuapp.com/",
+        "code": "https://github.com/jigar-sable/instagram-mern"
+      }
+    },
+    {
+      "name": "Office 365",
+      "desc": "En presentasjon om Microsoft Office 365 og alle de forskjellige programmene. ",
+      "image": "office",
+      "category": "powerpoint",
+      "links": {
+        "view": "https://flipkartwebs.herokuapp.com/",
+        "code": "https://github.com/jigar-sable/flipkart-mern"
+      }
+    },
+    {
+      "name": "PC Deler og Bærekraft",
+      "desc": "En presentasjon over pc deler og hvor bærekraftig det er.  .",
+      "image": "pcdeler",
+      "category": "powerpoint",
+      "links": {
+        "view": "https://resumegenx.netlify.app/",
+        "code": "https://github.com/jigar-sable/resumegen"
+      }
+    },
+    {
+      "name": "File Explorer Guide",
+      "desc": "En detaljert Guide over File Explorer og alle de forskjellige funksjonene.",
+      "image": "fileexplorer",
+      "category": "guide",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+        "name": "Hurtigkommando",
+        "desc": "En detaljert guide over de forskjellige hurtigkommandene i Windows.",
+        "image": "hurtigkommandoer",
+        "category": "guide",
+        "links": {
+          "view": "#",
+          "code": "#"
+        }
+      },
+      {
+        "name": "Sette opp PC",
+        "desc": "En guide på hvordan man setter opp en PC og installerer windows.",
+        "image": "setteopppc",
+        "category": "guide",
+        "links": {
+          "view": "#",
+          "code": "#"
+        }
+      },
+      {
+        "name": "FTP",
+        "desc": "En guide på hva FTP er, hvordan det fungerer, hvordan man setter det opp og hvordan man bruker det.",
+        "image": "ftp",
+        "category": "guide",
+        "links": {
+          "view": "#",
+          "code": "#"
+        }
+      },
+    {
+      "name": "Email",
+      "desc": "En guide på hva email er, hvordan man får seg en email, og hvordan man bruker det.",
+      "image": "email",
+      "category": "guide",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Prosjekt Server 2019",
+      "desc": "En guide på hvordan man installerer windows server 2019 og klient.",
+      "image": "server",
+      "category": "guide",
+      "links": {
+        "view": "#",
+        "code": "#"
+      }
+    },
+    {
+      "name": "Hjemme Alene - remake",
+      "desc": "En scene fra Hjemme alene som jeg og noen venner remaket.",
+      "image": "hjemmealene",
+      "category": "annet",
+      "links": {
+        "view": "#",
+        "code": "#"
+    }
+}
+]
+      
