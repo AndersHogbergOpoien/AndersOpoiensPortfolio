@@ -57,7 +57,7 @@ $("#contact-form").submit(function (event) {
         .then(function (response) {
             console.log('SUCCESS!', response.status, response.text);
             document.getElementById("contact-form").reset();
-            alert("Melding sendt!");
+            alert("Melding ikke gjennomført!");
         }, function (error) {
             console.log('FAILED...', error);
             alert("Melding sendt!");
